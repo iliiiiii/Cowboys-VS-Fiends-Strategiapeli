@@ -1,0 +1,30 @@
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\bin\Debug\net6.0\TurnBasedStrategiaPeli.exe
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\bin\Debug\net6.0\TurnBasedStrategiaPeli.deps.json
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\bin\Debug\net6.0\TurnBasedStrategiaPeli.runtimeconfig.json
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\bin\Debug\net6.0\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\bin\Debug\net6.0\TurnBasedStrategiaPeli.pdb
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.csproj.AssemblyReference.cache
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.AssemblyInfoInputs.cache
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.AssemblyInfo.cs
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.csproj.CoreCompileInputs.cache
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\refint\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.pdb
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\TurnBasedStrategiaPeli.genruntimeconfig.cache
+C:\Users\Ilari\Desktop\StrategiaPeliFolder\TurnBasedStrategiaPeli\TurnBasedStrategiaPeli\obj\Debug\net6.0\ref\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\bin\Debug\net6.0\TurnBasedStrategiaPeli.exe
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\bin\Debug\net6.0\TurnBasedStrategiaPeli.deps.json
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\bin\Debug\net6.0\TurnBasedStrategiaPeli.runtimeconfig.json
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\bin\Debug\net6.0\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\bin\Debug\net6.0\TurnBasedStrategiaPeli.pdb
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.csproj.AssemblyReference.cache
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.AssemblyInfoInputs.cache
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.AssemblyInfo.cs
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.csproj.CoreCompileInputs.cache
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\refint\TurnBasedStrategiaPeli.dll
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.pdb
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\TurnBasedStrategiaPeli.genruntimeconfig.cache
+C:\Users\Ilari\Desktop\Cowboys VS Fiends\obj\Debug\net6.0\ref\TurnBasedStrategiaPeli.dll
