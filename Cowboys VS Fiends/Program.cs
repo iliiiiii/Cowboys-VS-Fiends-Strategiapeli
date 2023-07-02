@@ -30,7 +30,9 @@ namespace turn_based_combat
 
             Random randomGenerator = new Random();
 
-            Console.WriteLine("Welcome traveller! Hope you survive this battle!");
+            Console.WriteLine("Fiends VS Cowboys!");
+            Console.WriteLine();
+            Console.WriteLine("I wish you luck traveller....");
             Console.WriteLine();
             Console.WriteLine("Press any key to continue to the army selectection screen!");
             Console.ReadKey();
